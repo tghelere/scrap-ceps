@@ -18,6 +18,6 @@
   "homepage": "https://github.com/tghelere/scrap-ceps#readme",
   "dependencies": {
     "cheerio": "^0.22.0",
-    "request": "^2.83.0"
+    "request": "^2.88.2"
   }
 }
